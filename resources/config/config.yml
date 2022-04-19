@@ -1,0 +1,7 @@
+web:
+  port: 8081
+db:
+  url: localhost:3306
+  db: ikindle
+  username: root
+  password: 123456
